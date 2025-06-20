@@ -48,7 +48,7 @@ This tutorial demonstrates the use of various **Flexbox CSS properties** to crea
 
 ## 🔗 Live Demo
 
-➡️ [View Portfolio Live](https://rohitash-eng.github.io/professional-portfolio-website-using-flex/)
+➡️ [View Portfolio Live](https://github.com/rohitash-eng/professional-portfolio-website-using-flex/blob/main/images/professional-portfolio-website-using-flex.png?raw=true)
 
 ---
 
